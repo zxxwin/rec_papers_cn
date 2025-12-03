@@ -1,0 +1,14 @@
+{
+  "fig:arch-compare": "assets/fig:arch-compare.png",
+  "fig:scaling:a|fig:scaling:b|fig:scaling": "assets/fig:scaling:a|fig:scaling:b|fig:scaling.png",
+  "fig:scaling:a": "assets/fig:scaling:a|fig:scaling:b|fig:scaling.png",
+  "fig:scaling:b": "assets/fig:scaling:a|fig:scaling:b|fig:scaling.png",
+  "fig:scaling": "assets/fig:scaling:a|fig:scaling:b|fig:scaling.png",
+  "fig:onetrans": "assets/fig:onetrans.png",
+  "tab:dataset_overview": "assets/tab:dataset_overview.png",
+  "tab:baseline_half": "assets/tab:baseline_half.png",
+  "tab:ab_results": "assets/tab:ab_results.png",
+  "tab:rq1_all": "assets/tab:rq1_all.png",
+  "tab:rq2_unified": "assets/tab:rq2_unified.png",
+  "tab:rq4_efficiency": "assets/tab:rq4_efficiency.png"
+}

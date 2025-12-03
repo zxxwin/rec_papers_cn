@@ -1,0 +1,14 @@
+{
+  "fig:arch_overall": "assets/fig:arch_overall.png",
+  "fig:scaling_law": "assets/fig:scaling_law.png",
+  "fig:sparsity_curve": "assets/fig:sparsity_curve.png",
+  "fig:expert_balance": "assets/fig:expert_balance.png",
+  "ablation study": "assets/ablationstudy.png",
+  "ablation-routing": "assets/ablation-routing.png",
+  "case_study": "assets/case_study.png",
+  "tab:ads-search|ad_search": "assets/tab:ads-search|ad_search.png",
+  "tab:ads-search": "assets/tab:ads-search|ad_search.png",
+  "ad_search": "assets/tab:ads-search|ad_search.png",
+  "online_ab": "assets/online_ab.png",
+  "table:main_result": "assets/table:main_result.png"
+}

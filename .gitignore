@@ -1,0 +1,14 @@
+*
+!**/
+!**/**/assets/
+!**/**/assets/*
+!**/**/main.pdf
+!**/**/main_trans.pdf
+!**/**/main_trans.html
+!**/assets/
+!**/assets/*
+!**/main.pdf
+!**/main_trans.md
+!**/main_trans.html
+!.gitignore
+!README.md

@@ -1,0 +1,10 @@
+{
+  "fig:scaling": "assets/fig:scaling.png",
+  "tab:dataset": "assets/tab:dataset.png",
+  "tab:setting": "assets/tab:setting.png",
+  "fig:performance": "assets/fig:performance.png",
+  "tab:ablation": "assets/tab:ablation.png",
+  "tab:online_metrics": "assets/tab:online_metrics.png",
+  "fig:gr-workflow": "assets/fig:gr-workflow.png",
+  "fig:traditional-recsys": "assets/fig:traditional-recsys.png"
+}
