@@ -1,0 +1,11 @@
+{
+  "fig:intro-scaling": "assets/fig:intro-scaling.png",
+  "fig:flops-vs-loss": "assets/fig:flops-vs-loss.png",
+  "fig:struct-intro": "assets/fig:struct-intro.png",
+  "tab:douyinlite-main": "assets/tab:douyinlite-main.png",
+  "tab:extrapolation-lmax": "assets/tab:extrapolation-lmax.png",
+  "tab:extrapolation-mean": "assets/tab:extrapolation-mean.png",
+  "tab:beta-shape": "assets/tab:beta-shape.png",
+  "tab:stca-ablation": "assets/tab:stca-ablation.png",
+  "tab:online-ab": "assets/tab:online-ab.png"
+}

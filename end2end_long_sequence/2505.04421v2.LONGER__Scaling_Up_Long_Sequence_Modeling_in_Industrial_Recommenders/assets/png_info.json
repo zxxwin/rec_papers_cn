@@ -1,0 +1,13 @@
+{
+  "fig:jaguar": "assets/fig:jaguar.png",
+  "fig:kvserving": "assets/fig:kvserving.png",
+  "fig:flops_auc|fig:params_auc|fig:scaling_flops_params": "assets/fig:flops_auc|fig:params_auc|fig:scaling_flops_params.png",
+  "fig:flops_auc": "assets/fig:flops_auc|fig:params_auc|fig:scaling_flops_params.png",
+  "fig:params_auc": "assets/fig:flops_auc|fig:params_auc|fig:scaling_flops_params.png",
+  "fig:scaling_flops_params": "assets/fig:flops_auc|fig:params_auc|fig:scaling_flops_params.png",
+  "fig:model_image": "assets/fig:model_image.png",
+  "fig:length": "assets/fig:length.png",
+  "tab:ablation_combined": "assets/tab:ablation_combined.png",
+  "tab:ab_test_results": "assets/tab:ab_test_results.png",
+  "tab:performance": "assets/tab:performance.png"
+}
