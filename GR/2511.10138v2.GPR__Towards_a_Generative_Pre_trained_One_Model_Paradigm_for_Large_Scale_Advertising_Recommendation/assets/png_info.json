@@ -1,0 +1,12 @@
+{
+  "fig:teaser": "assets/fig:teaser.png",
+  "fig:scaling": "assets/fig:scaling.png",
+  "tab:tokenizer": "assets/tab:tokenizer.png",
+  "tab:gpr-ablation-baseline": "assets/tab:gpr-ablation-baseline.png",
+  "tab:objective-alignment": "assets/tab:objective-alignment.png",
+  "tab:ab-online": "assets/tab:ab-online.png",
+  "tab:ab-online-seg": "assets/tab:ab-online-seg.png",
+  "fig:rq-kmeans": "assets/fig:rq-kmeans.png",
+  "fig:training": "assets/fig:training.png",
+  "fig:gpr_v3_1": "assets/fig:gpr_v3_1.png"
+}
